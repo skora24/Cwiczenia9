@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3RQ/XVhhwwI=",
+  "dgSpecHash": "p1iOpW6UnXc=",
   "success": true,
   "projectFilePath": "/Users/bartekskora/Desktop/Tutorial9/Tutorial9/Tutorial9.csproj",
   "expectedPackageFiles": [
@@ -25,8 +25,12 @@
     "/Users/bartekskora/.nuget/packages/microsoft.identitymodel.protocols/7.5.0/microsoft.identitymodel.protocols.7.5.0.nupkg.sha512",
     "/Users/bartekskora/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.5.0/microsoft.identitymodel.protocols.openidconnect.7.5.0.nupkg.sha512",
     "/Users/bartekskora/.nuget/packages/microsoft.identitymodel.tokens/7.5.0/microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
-    "/Users/bartekskora/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/bartekskora/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
     "/Users/bartekskora/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/bartekskora/.nuget/packages/oneof/3.0.271/oneof.3.0.271.nupkg.sha512",
+    "/Users/bartekskora/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.1/swashbuckle.aspnetcore.swagger.8.1.1.nupkg.sha512",
+    "/Users/bartekskora/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.1/swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
+    "/Users/bartekskora/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.1/swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512",
     "/Users/bartekskora/.nuget/packages/system.clientmodel/1.0.0/system.clientmodel.1.0.0.nupkg.sha512",
     "/Users/bartekskora/.nuget/packages/system.configuration.configurationmanager/9.0.4/system.configuration.configurationmanager.9.0.4.nupkg.sha512",
     "/Users/bartekskora/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
